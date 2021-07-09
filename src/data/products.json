@@ -5,7 +5,7 @@
         "description": "Entrada Carpaccio de salmón con cítricos",
         "price": 65.50,
         "category": 2,
-        "gallery": [1,2,3]
+        "gallery": "/images/carpaccio-de-salmon.jpg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "description": "Risotto de berenjena y queso de cabra",
         "price": 47.00,
         "category": 2,
-        "gallery": [1,2,3]
+        "gallery": "/images/Risotto-berenjena-queso-cabra.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "description": "Mousse de arroz con leche y aroma de azahar",
         "price": 27.50,
         "category": 2,
-        "gallery": [1,2,3]
+        "gallery": "/images/Mousse-de-arroz-con-leche.jpg"
     },
     {
         "id": 4,
@@ -29,6 +29,6 @@
         "description": "Espárragos blancos con vinagreta de verduras y jamón ibérico",
         "price": 37.50,
         "category": 1,
-        "gallery": [1,2,3]
+        "gallery": "/images/esparragos.png"
     }
 ]
